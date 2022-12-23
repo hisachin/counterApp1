@@ -1,0 +1,35 @@
+.btn {
+  width: 100px;
+  height: 50px;
+  background: transparent;
+  padding: 1rem;
+  border: 1px solid #e2e2e2;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: green;
+  color: #fff;
+}
+
+.btn-secondary {
+  background-color: gray;
+  color: #fff;
+}
+
+.btn-sm {
+  width: 50px;
+  height: 30px;
+  padding: 0.4rem;
+}
+
+.btn-md {
+  width: 50px;
+  height: 35px;
+  padding: 0.6rem;
+}
+
+.btn-lg {
+  width: 100px;
+  height: 50px;
+}
